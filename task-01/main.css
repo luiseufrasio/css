@@ -19,3 +19,8 @@ code {
     color: red;
     font-family: monospace;
 }
+
+li + li {
+    color: white;
+    background: black;
+}
