@@ -24,3 +24,8 @@ li + li {
     color: white;
     background: black;
 }
+
+ol > li {
+    color: white;
+    background: black;
+}

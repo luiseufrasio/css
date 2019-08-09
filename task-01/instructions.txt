@@ -20,4 +20,7 @@
     a black background and white text color
     (don't worry if the numbers disappear).
 
-7. Use another combinator to now give all <li> inside an <ol> element a black background and white text color.
+7. Use another combinator 
+    to now give all <li> 
+        inside an <ol> element 
+            a black background and white text color.
