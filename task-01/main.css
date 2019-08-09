@@ -3,11 +3,11 @@
     font-family: 'Acme', sans-serif;
 }
 
+#second-li > code {
+    color: green;
+}
+
 code {
     color: red;
     font-family: monospace;
-}
-
-#second-li > code {
-    color: green;
 }
