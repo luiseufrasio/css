@@ -60,13 +60,16 @@ body {
 }
 
 .main-nav__items a {
-    color: #0e4f1f;
     text-decoration: none;
+    color: #0e4f1f;
+    font-weight: bold;
+    padding: 3px 0;
 }
 
 .main-nav__items a:hover,
 .main-nav__items a:active {
     color: white;
+    border-bottom: solid 5px #fff;
 }
 
 .main-nav__item {
