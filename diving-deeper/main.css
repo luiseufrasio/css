@@ -64,7 +64,25 @@ body {
     text-decoration: none;
 }
 
+.main-nav__items a::after {
+    content: ' (Link)';
+    color: #f00;
+}
+
+.main-nav__items a:hover {
+    color: white;
+}
+
+.main-nav__items a:active {
+    color: white;
+}
+
 .main-nav__item {
     display: inline-block;
     margin: 0 16px;
+}
+
+p::first-letter {
+    color: red;
+    font-size: 20px;
 }
